@@ -29,3 +29,5 @@ I've been working on projects with ReactJS and NextJS for over year and have som
 
 <a href="http://www.github.com/fazil-syed"><img src="https://github-readme-stats.vercel.app/api?username=fazil-syed&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="fazil-syed's GitHub stats" /></a>
 
+#hacktoberfest2023
+[![@Syed Fazil's Holopin board](https://holopin.me/fazilsyed)](https://holopin.io/@fazilsyed)
