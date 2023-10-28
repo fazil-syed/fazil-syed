@@ -29,4 +29,3 @@ I've been working on projects with ReactJS and NextJS for over year and have som
 
 <a href="http://www.github.com/fazil-syed"><img src="https://github-readme-stats.vercel.app/api?username=fazil-syed&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&show_icons=true" alt="fazil-syed's GitHub stats" /></a>
 
-<a href="https://github.com/fazil-syed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fazil-syed&langs_count=5&title_color=14b8a6&text_color=ffffff&icon_color=ffffff&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
