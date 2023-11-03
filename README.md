@@ -8,7 +8,7 @@ I've been working on projects with ReactJS and NextJS for over year and have som
 
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [syedfazil539@gmail.com](mailto:syedfazil539@gmail.com)
-* 🧠  I'm learning Flutter and Solving Problems on Leetcode
+* 🧠  I'm learning DSA and Solving Problems on Leetcode
 * ⚡  Recently I have started contributing to Open Source Projects including mattermost and Dailydotdev.
 
 ### Skills
